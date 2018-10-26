@@ -16,7 +16,7 @@ cd bamazon
 npm install
 node bamazonCustomer.js
 
-Bamazon Demo
+### Bamazon Demo
 You can download and watch the demo of the Bamazon customer interface at the link below. 
 https://vimeo.com/297246906
 Password: bamsql
